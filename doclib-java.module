@@ -1,0 +1,130 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "br.com.brscan",
+    "module": "doclib-java",
+    "version": "1.0.26",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.0.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "doclib-java-1.0.26.aar",
+          "url": "doclib-java-1.0.26.aar",
+          "size": 291958,
+          "sha512": "3824db0c7f8a35b10b1a40e8270881bf1d25a33db30f993815bbbdccba94461452adfd588a551ab82371a18dff7e90e40eee69e7e23acdfc22ca0e67a6bcc25b",
+          "sha256": "6fc0da652ff67613802f7de8b82f925dc87fcccefccdbec2e51c531f303df620",
+          "sha1": "505584d9f6461a88511ce77a7f901973c3e80349",
+          "md5": "1079670d30b87c79573d7012f3520158"
+        }
+      ]
+    },
+    {
+      "name": "releaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "androidx.appcompat",
+          "module": "appcompat",
+          "version": {
+            "requires": "1.2.0"
+          }
+        },
+        {
+          "group": "androidx.constraintlayout",
+          "module": "constraintlayout",
+          "version": {
+            "requires": "2.0.4"
+          }
+        },
+        {
+          "group": "com.google.guava",
+          "module": "guava",
+          "version": {
+            "requires": "27.1-android"
+          }
+        },
+        {
+          "group": "com.google.android.material",
+          "module": "material",
+          "version": {
+            "requires": "1.4.0"
+          }
+        },
+        {
+          "group": "androidx.camera",
+          "module": "camera-core",
+          "version": {
+            "requires": "1.0.0-rc01"
+          }
+        },
+        {
+          "group": "androidx.camera",
+          "module": "camera-camera2",
+          "version": {
+            "requires": "1.0.0-rc01"
+          }
+        },
+        {
+          "group": "androidx.camera",
+          "module": "camera-lifecycle",
+          "version": {
+            "requires": "1.0.0-rc01"
+          }
+        },
+        {
+          "group": "androidx.camera",
+          "module": "camera-view",
+          "version": {
+            "requires": "1.0.0-alpha20"
+          }
+        },
+        {
+          "group": "com.google.mlkit",
+          "module": "object-detection",
+          "version": {
+            "requires": "16.2.2"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp",
+          "version": {
+            "requires": "3.12.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "doclib-java-1.0.26.aar",
+          "url": "doclib-java-1.0.26.aar",
+          "size": 291958,
+          "sha512": "3824db0c7f8a35b10b1a40e8270881bf1d25a33db30f993815bbbdccba94461452adfd588a551ab82371a18dff7e90e40eee69e7e23acdfc22ca0e67a6bcc25b",
+          "sha256": "6fc0da652ff67613802f7de8b82f925dc87fcccefccdbec2e51c531f303df620",
+          "sha1": "505584d9f6461a88511ce77a7f901973c3e80349",
+          "md5": "1079670d30b87c79573d7012f3520158"
+        }
+      ]
+    }
+  ]
+}
