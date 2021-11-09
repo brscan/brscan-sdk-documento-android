@@ -2,7 +2,7 @@
   "formatVersion": "1.1",
   "component": {
     "group": "br.com.brscan",
-    "module": "captura",
+    "module": "brscan-sdk-documento-android",
     "version": "1.0.26",
     "attributes": {
       "org.gradle.status": "release"
@@ -24,8 +24,8 @@
       },
       "files": [
         {
-          "name": "captura-1.0.26.aar",
-          "url": "captura-1.0.26.aar",
+          "name": "brscan-sdk-documento-android-1.0.26.aar",
+          "url": "brscan-sdk-documento-android-1.0.26.aar",
           "size": 292171,
           "sha512": "c523e6f18861b8e8c3d4b397411405b0481c698511b8440030432ca100af9ba455864f623cd3a00bfd414ea3a3c149817344fe64453ee0ecf2549591b36ba418",
           "sha256": "ee531488ce34551a00ff7fbca473fdfdfe526ae62c20928b87e0bcb2695aa7ee",
@@ -130,8 +130,8 @@
       ],
       "files": [
         {
-          "name": "captura-1.0.26.aar",
-          "url": "captura-1.0.26.aar",
+          "name": "brscan-sdk-documento-android-1.0.26.aar",
+          "url": "brscan-sdk-documento-android-1.0.26.aar",
           "size": 292171,
           "sha512": "c523e6f18861b8e8c3d4b397411405b0481c698511b8440030432ca100af9ba455864f623cd3a00bfd414ea3a3c149817344fe64453ee0ecf2549591b36ba418",
           "sha256": "ee531488ce34551a00ff7fbca473fdfdfe526ae62c20928b87e0bcb2695aa7ee",

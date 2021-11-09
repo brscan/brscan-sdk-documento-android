@@ -1,3 +1,3 @@
 install: 
-  - FILE="-Dfile=captura-1.0.26.aar" 
-  - mvn install:install-file $FILE -DgroupId=br.com.brscan -DartifactId=captura -Dversion=1.0.26 -Dpackaging=aar -DgeneratePom=true
+  - FILE="-Dfile=brscan-sdk-documento-android-1.0.26-1.0.26.aar" 
+  - mvn install:install-file $FILE -DgroupId=br.com.brscan -DartifactId=brscan-sdk-documento-android-1.0.26 -Dversion=1.0.26 -Dpackaging=aar -DgeneratePom=true
