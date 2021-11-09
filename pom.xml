@@ -4,7 +4,6 @@
   <groupId>br.com.brscan.sdk</groupId>
   <artifactId>captura</artifactId>
   <version>1.0.26</version>
-  <packaging>aar</packaging>
 	<dependencies>
     <dependency>
       <groupId>androidx.appcompat</groupId>
