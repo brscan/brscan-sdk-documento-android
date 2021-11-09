@@ -2,7 +2,7 @@
   "formatVersion": "1.1",
   "component": {
     "group": "br.com.brscan",
-    "module": "doclib-java",
+    "module": "captura",
     "version": "1.0.26",
     "attributes": {
       "org.gradle.status": "release"
@@ -24,8 +24,8 @@
       },
       "files": [
         {
-          "name": "doclib-java-1.0.26.aar",
-          "url": "doclib-java-1.0.26.aar",
+          "name": "captura-1.0.26.aar",
+          "url": "captura-1.0.26.aar",
           "size": 291958,
           "sha512": "3824db0c7f8a35b10b1a40e8270881bf1d25a33db30f993815bbbdccba94461452adfd588a551ab82371a18dff7e90e40eee69e7e23acdfc22ca0e67a6bcc25b",
           "sha256": "6fc0da652ff67613802f7de8b82f925dc87fcccefccdbec2e51c531f303df620",
@@ -116,8 +116,8 @@
       ],
       "files": [
         {
-          "name": "doclib-java-1.0.26.aar",
-          "url": "doclib-java-1.0.26.aar",
+          "name": "captura-1.0.26.aar",
+          "url": "captura-1.0.26.aar",
           "size": 291958,
           "sha512": "3824db0c7f8a35b10b1a40e8270881bf1d25a33db30f993815bbbdccba94461452adfd588a551ab82371a18dff7e90e40eee69e7e23acdfc22ca0e67a6bcc25b",
           "sha256": "6fc0da652ff67613802f7de8b82f925dc87fcccefccdbec2e51c531f303df620",

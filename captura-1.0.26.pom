@@ -8,7 +8,7 @@
   <!-- do_not_remove: published-with-gradle-metadata -->
   <modelVersion>4.0.0</modelVersion>
   <groupId>br.com.brscan</groupId>
-  <artifactId>doclib-java</artifactId>
+  <artifactId>captura</artifactId>
   <version>1.0.26</version>
   <packaging>aar</packaging>
   <dependencies>
