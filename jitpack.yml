@@ -1,3 +1,0 @@
-install: 
-  - FILE="-Dfile=captura-1.0.26.aar"
-  - mvn install:install-file $FILE -DgroupId=br.com.brscan.sdk -DartifactId=captura -Dversion=1.0.26 -Dpackaging=jar -DgeneratePom=true
