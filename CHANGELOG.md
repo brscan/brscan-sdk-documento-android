@@ -111,3 +111,5 @@
 ## [1.0.27] - 17-11-2021
 - Melhoria: Customização de fonte.
 - Melhoria: Customização da tela de captura. 
+
+Brscan
