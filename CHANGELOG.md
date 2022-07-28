@@ -1,3 +1,6 @@
+## [1.5.1] - 28-07-2022
+- Correção: Alteração icone padrão de captura manual.
+
 ## [1.5.0] - 27-07-2022
 - Melhoria: Alteração de nomenclarura (erroCallbackListener) para (documentCallbackListener)
 - Melhoria: Retornar erros e sucesso via call back (documentCallbackListener)
